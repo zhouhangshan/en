@@ -1,0 +1,5 @@
+title: GlobalWebGuide 
+ description: 外网的介绍与研究 
+ remote_theme: pages-themes/architect@v0.2.0 
+ plugins: 
+ - jekyll-Architect-theme
