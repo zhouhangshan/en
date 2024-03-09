@@ -1,3 +1,4 @@
 - [什么是外网](https://zhs141.github.io/en/what.html)
 - [加速器推荐](https://zhs141.github.io/JC/vpn)
+- [加速器推荐的补充说明](https://zhs141.github.io/en/vpns.html)
 - [临时邮箱申请推荐](https://zhs141.github.io/en/email.html)
